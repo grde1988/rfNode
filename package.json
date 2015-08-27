@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grde1988/rfNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grde1988/rfNode/issues"
+  },
+  "homepage": "https://github.com/grde1988/rfNode#readme",
+  "dependencies": {
+    "hapi": "^9.0.3"
+  }
+}
